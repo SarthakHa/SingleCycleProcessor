@@ -3,7 +3,7 @@ Lab done to create a Single Cycle Processor (SCP)
 
 Created a Single Cycle Processor using Verilog in Intel Quartus Prime.
 
-The .v files in the V files folder hold the different modules (components) of the Single Cycle Processor.
+The .v files in the V files folder hold the different modules (components) of the SCP.
 
 The .vwf files in the VWF Files folder hold the test results from testing the different components and the whole processor. These VWF files are detailed with more explanation in the Write up for the lab pdf in the main directory.
 
