@@ -1,7 +1,7 @@
 # Single Cycle Processor
 Lab done to create a Single Cycle Processor (SCP)
 
-Created a Single Cycle Processor using Verilog in Intel Quartus Prime.
+Created a SCP using Verilog in Intel Quartus Prime.
 
 The .v files in the V files folder hold the different modules (components) of the SCP.
 
